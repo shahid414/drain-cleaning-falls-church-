@@ -1,0 +1,76 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning.html",
+      "destination": "/drain-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-plumbing-services.html",
+      "destination": "/emergency-plumbing-services",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection-and-repair.html",
+      "destination": "/leak-detection-and-repair",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-broadmont.html",
+      "destination": "/plumbing-broadmont",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-broyhill-forest.html",
+      "destination": "/plumbing-broyhill-forest",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-line-inspection-and-repair.html",
+      "destination": "/sewer-line-inspection-and-repair",
+      "permanent": true
+    },
+    {
+      "source": "/water-heater-installation-and-repair.html",
+      "destination": "/water-heater-installation-and-repair",
+      "permanent": true
+    }
+  ]
+}
